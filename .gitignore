@@ -1,0 +1,37 @@
+# Visual Studio temporary files
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Build artifacts
+*.exe
+*.pdb
+*.obj
+*.iobj
+*.ipdb
+*.tlog
+*.lastbuildstate
+*.log
+
+# Precompiled headers and IntelliSense
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+
+# DirectX SDK and libs (слишком большие)
+amber/drawing/libs/Microsoft DirectX SDK/
+
+# Other
+amber/imgui.ini
+*.lib
+*.ilk
+*.idb
+*.db
