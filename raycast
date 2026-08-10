@@ -1,0 +1,4 @@
+    public static class WorldRoot {
+         public const long RaycastBoundDesc = 0x81e7150;
+         public const long RaycastBoundFn = 0x80;
+    }
