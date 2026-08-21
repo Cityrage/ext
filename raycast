@@ -2,3 +2,11 @@
          public const long RaycastBoundDesc = 0x82012a0;
          public const long RaycastBoundFn = 0x80;
     }
+
+    public static class Attribute {
+         inline constexpr uintptr_t Key = 0x0;
+         inline constexpr uintptr_t Size = 0x58;
+         inline constexpr uintptr_t TypeIdRva = 0x872cd74;
+         inline constexpr uintptr_t TypeIdRvaNew = 0x872cd6c;
+         inline constexpr uintptr_t Value = 0x8;
+    }
