@@ -2,6 +2,3 @@
          public const long RaycastBoundDesc = 0x8089f20;
          public const long RaycastBoundFn = 0x80;
     }
-    public static class Attribute {
-         public const long Value = 0x8;
-    }
