@@ -1,4 +1,19 @@
-    public static class WorldRoot {
-         public const long RaycastBoundDesc = 0x80fa4c0;
-         public const long RaycastBoundFn = 0x80;
-    }
+public static class WorldRoot {
+ public const long RaycastBoundDesc = 0x80fa4c0;
+ public const long RaycastBoundFn = 0x80;
+}
+
+public static class Instance {
+ public const long ComponentMap = 0x38;
+ public const long ComponentSize = 0x10;
+}
+
+public static class AttributesMap {
+ public const long Attributes = 0x10;
+}
+
+public static class Attribute {
+ public const long Key = 0x0;
+ public const long Size = 0x58;
+ public const long Value = 0x8;
+}
