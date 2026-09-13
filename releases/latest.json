@@ -1,0 +1,10 @@
+{
+  "expires_at": 1790486257,
+  "kid": "release-v1",
+  "published_at": 1789276657,
+  "sha256": "90a36a4217d63ed60982bb2c31347f1c025da59b65e5c39c418966c3ca55ff67",
+  "signature": "WK_eBhdCtgHJ0U-7z_1LEj_FL4EWyCtZkgUbo6XL1YnJ9ITlV0uj8OfwFZEgGNRKOg7JIRuxElhCxzmnKKbdcA",
+  "size": 5492224,
+  "url": "https://getmercury.xyz/releases/Mercury-1.7.2.exe",
+  "version": "1.7.2"
+}
