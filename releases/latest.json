@@ -1,0 +1,10 @@
+{
+  "expires_at": 1791099217,
+  "kid": "release-v1",
+  "published_at": 1789889617,
+  "sha256": "9e34368f6e5a85b55631a2bfd834f97e34decc414329ee395ff262d33c1c149b",
+  "signature": "f0VTAMqpQ4R4SCVayezUHgR7vD_qpYDNVuHOiiDe2yNW_FJaFyEtFjbfOTSnJMd2qBimmEqLnnPAH0W-mJ-cTw",
+  "size": 5550080,
+  "url": "https://getmercury.xyz/releases/Mercury-1.7.3.exe",
+  "version": "1.7.3"
+}
