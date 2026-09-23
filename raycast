@@ -1,5 +1,5 @@
 public static class WorldRoot {
- public const long RaycastBoundDesc = 0x8217310;
+ public const long RaycastBoundDesc = 0x82c62d0;
  public const long RaycastBoundFn = 0x80;
 }
 
