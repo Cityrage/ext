@@ -1,0 +1,10 @@
+{
+  "expires_at": 1791470549,
+  "kid": "release-v1",
+  "published_at": 1790260949,
+  "sha256": "9907491360f124167bdae4f343c1ab78101faffb633e4df63e77b53949da8066",
+  "signature": "C8V-Z-JMeqmKRD5nwBxyuR7oSwwD-fSiQgz71-IHASFySt9Wbk_uy2G4619NydUWHixMAPUa17upk2MgpckZoA",
+  "size": 5555200,
+  "url": "https://getmercury.xyz/releases/Mercury-1.7.4.exe",
+  "version": "1.7.4"
+}
