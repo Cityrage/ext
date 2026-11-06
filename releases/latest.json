@@ -1,0 +1,10 @@
+{
+  "expires_at": 1795191557,
+  "kid": "release-v1",
+  "published_at": 1793981957,
+  "sha256": "6e78703786df7261833d3530c0031c1433d27ef5f96a4752267132704aadf5ac",
+  "signature": "GGqkYayY7r3oEani-RpJ20cgtjfP1dXczppPf6NG-MPcjDo4hZ4u_nQsLXD0ABzGj5GArIU5NV0uQo1F2GmHBg",
+  "size": 7014912,
+  "url": "https://getmercury.xyz/releases/Mercury-1.8.5.exe",
+  "version": "1.8.5"
+}
