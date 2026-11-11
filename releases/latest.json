@@ -1,0 +1,10 @@
+{
+  "expires_at": 1795623090,
+  "kid": "release-v1",
+  "published_at": 1794413490,
+  "sha256": "a11842025bede1682510eebdf42afcc8ea2fe26b6e9a50954b31a5b0523c0fa9",
+  "signature": "OnvRUHCQoyhl2y973bbvOaxILBq7w9S0q__OxhPF0hQd8jv1otvQFOWeN24IHF1cEG8Gry6FUnWcoJSBVB8pLg",
+  "size": 7143424,
+  "url": "https://getmercury.xyz/releases/Mercury-1.9.2.exe",
+  "version": "1.9.2"
+}
