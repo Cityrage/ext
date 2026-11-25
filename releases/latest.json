@@ -1,0 +1,10 @@
+{
+  "expires_at": 1796821028,
+  "kid": "release-v1",
+  "published_at": 1795611428,
+  "sha256": "fe20ee8ee96768e89186f71b5888f9f1ceba8addc6437b25e440511e734b5bb0",
+  "signature": "1Rrv3Fq1f_xeVZ4ZuG0Msziom2neMbqTG3vn3MbPxy1trHjvrvfJBP5GDC0NC4AVzWl6eDRXzjZCdm0k9HwjlQ",
+  "size": 6996992,
+  "url": "https://getmercury.xyz/releases/Mercury-1.10.1.exe",
+  "version": "1.10.1"
+}
